@@ -1,5 +1,6 @@
-print ('Hello World')
-print('hello everybody')
-print hello
-print 4 Hello my dear
-hello Glad to se you
+<<<<<<< HEAD
+print ('Hello World');
+print('hello everybody');
+print hello;
+print 4 Hello my dear;
+hello Glad to se you;
